@@ -1,1 +1,1 @@
-# 將病人基本資料(HL7 V2格式)轉換成FHIR格式並post到fhir server上面
+# -這次聯測測試的功能是選項第四個(Export Full FHIR And Post to Server)，這步驟所做的是先將patient的json檔put到server上，再將AllergyIntolerance post到server上
